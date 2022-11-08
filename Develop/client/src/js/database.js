@@ -14,7 +14,7 @@ const initdb = async () =>
 
 // TODO: Add logic to a method that accepts some content and adds it to the database. PUT.
 const putDb = async (content) => {
-  console.error('putDb not implemented');
+  //console.error('putDb not implemented');
 
   // Create a connection to the database database and version we want to use.
   const jate = await openDB('jate', 1);
@@ -35,7 +35,7 @@ const putDb = async (content) => {
 
 // TODO: Add logic for a method that gets all the content from the database
 const getDb = async () => {
-  console.error('getDb not implemented');
+  //console.error('getDb not implemented');
 
   // Create a connection to the database database and version we want to use.
   const jate = await openDB('jate', 1);
