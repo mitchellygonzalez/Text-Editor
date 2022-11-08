@@ -38,4 +38,3 @@ registerRoute(
     ],
   })
 );
-x
