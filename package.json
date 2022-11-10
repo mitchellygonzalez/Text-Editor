@@ -8,8 +8,7 @@
     "server": "cd server node server.js --ignore client",
     "build": "cd client && npm run build",
     "install": "concurrently \"cd client && npm install\" \"cd server && npm install\" ",
-    "client": "cd client && npm start",
-    "heroku-prebuild": "npm install --dev"
+    "client": "cd client && npm start"
   },
   "keywords": [],
   "author": "",
