@@ -24,6 +24,10 @@ https://powerful-brook-83553.herokuapp.com/
 ## Screenshots
 <img width="1269" alt="Screen Shot 2022-11-10 at 3 19 28 AM" src="https://user-images.githubusercontent.com/107009737/201038213-f4e72911-b1dd-4ee5-8f39-56b14f148794.png">
 
+
+<img width="1280" alt="Screen Shot 2022-11-10 at 7 54 47 PM" src="https://user-images.githubusercontent.com/107009737/201238213-3f15855b-8e1a-402f-b98e-9475d0609273.png">
+
+
 ## User Story
     AS A developer
     I WANT to create notes or code snippets with or without an internet connection
